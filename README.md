@@ -27,6 +27,8 @@ bill. Consequently, people can achieve better sleep by timely turning off lighti
 the room. This project can contribute toward improving the general health of all individuals by
 accommodating a better sleeping environment.
 
+![alt text](https://github.com/matthewparkbusiness/Mobile-Sleep-Detection/blob/master/preview1.jpg)
+
 My device design is composed of two sub-units: a mobile phone or tablet with a software that can detect sleep
 status of individuals and a wirelessly controllable power-switch-device that can connect or
 disconnect power to the appliances.
